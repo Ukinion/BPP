@@ -1,2 +1,2 @@
 # BPP
-Basic of Parallel Programming | NSU Second Year
+Basics of Parallel Programming | NSU Second Year
